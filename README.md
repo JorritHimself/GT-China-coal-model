@@ -1,4 +1,4 @@
-# China-coal-model
+# GT China coal model
 The full version of a China coal transport model with a very high spatial reslution.
 
 # What it does
