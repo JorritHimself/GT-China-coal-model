@@ -1,0 +1,8 @@
+Install a free version of the Cplex interactive via the IBM Academic Initiative: https://content-eu-7.content-cms.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/academic/home
+
+To solve the problem in the cplex interactive:
+
+read "C:\SOMELOCATION\GT-China-coal-model\3 problemfiles\prob v12 provs baseline 2019.lp"
+opt
+set logfile "C:\SOMELOCATION\GT-China-coal-model\4 solutionfiles\solution v12 provs baseline 2019.txt"
+display solution variables -

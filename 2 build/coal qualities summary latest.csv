@@ -1,0 +1,180 @@
+"coal_brand","coal_group","coking_coal_t_HCC","coking_coal_t_SCC","coking_coal_t_PCI","CV_PJ_p_Mt_therm"
+"Anhui HCC","HCC",1,0,0,0
+"Anyuan HCC","HCC",1,0,0,0
+"Baotou HCC","HCC",1,0,0,0
+"Chongqing HCC","HCC",1,0,0,0
+"East Tsankhi HCC","HCC",1,0,0,0
+"FOB HCC","HCC",1,0,0,0
+"FOT HCC","HCC",1,0,0,0
+"FOT Pingxiang HCC","HCC",1,0,0,0
+"Guizhou FOT HCC","HCC",1,0,0,0
+"Hebei HCC","HCC",1,0,0,0
+"Heilongjiang HCC","HCC",1,0,0,0
+"Henan HCC","HCC",1,0,0,0
+"Hidili HCC clean","HCC",1,0,0,0
+"Hidili HCC raw","HCC",1,0,0,0
+"Hongyang Liaoning HCC","HCC",1,0,0,0
+"Hunan HCC","HCC",1,0,0,0
+"International HCC","HCC",1,0,0,0
+"Jiangsu HCC","HCC",1,0,0,0
+"Jilin HCC","HCC",1,0,0,0
+"Khushuut Met","HCC",1,0,0,0
+"Lanhua HCC","HCC",1,0,0,0
+"Liaoning HCC","HCC",1,0,0,0
+"Meijin SXE HCC","HCC",1,0,0,0
+"Meijin SXW HCC","HCC",1,0,0,0
+"Ningxia HCC","HCC",1,0,0,0
+"Nuurstei Met","HCC",1,0,0,0
+"Ovoot HCC","HCC",1,0,0,0
+"Panjiang HCC","HCC",1,0,0,0
+"Shaanxi HCC","HCC",1,0,0,0
+"Shandong Export HCC","HCC",1,0,0,0
+"Shandong HCC","HCC",1,0,0,0
+"Sichuan HCC","HCC",1,0,0,0
+"Tavan Tolgoi HCC","HCC",1,0,0,0
+"Terra Energy Ceke","HCC",1,0,0,0
+"Ukhaa Khudag HCC","HCC",1,0,0,0
+"Ukhaa Khudag SCC - unwashed","HCC",1,0,0,0
+"West Tsankhi HCC","HCC",1,0,0,0
+"Wintime HCC","HCC",1,0,0,0
+"Xinjiang HCC","HCC",1,0,0,0
+"Yunnan HCC","HCC",1,0,0,0
+"FOB PCI","PCI",0,0,1,0
+"FOT PCI","PCI",0,0,1,0
+"Guizhou PCI","PCI",0,0,1,0
+"Hebei PCI","PCI",0,0,1,0
+"Henan PCI","PCI",0,0,1,0
+"Hongyang Liaoning PCI","PCI",0,0,1,0
+"Hunan PCI","PCI",0,0,1,0
+"Liaoning PCI","PCI",0,0,1,0
+"Ningxia PCI","PCI",0,0,1,0
+"Qinghai PCI","PCI",0,0,1,0
+"Shaanxi PCI","PCI",0,0,1,0
+"Anhui SCC","SCC",0,1,0,0
+"Baruun Naran","SCC",0,1,0,0
+"East Tsankhi SCC","SCC",0,1,0,0
+"Eerduosi Resources SCC clean","SCC",0,1,0,0
+"FOB SCC","SCC",0,1,0,0
+"FOT SCC","SCC",0,1,0,0
+"Gansu FOT SCC","SCC",0,1,0,0
+"Guizhou FOT SCC","SCC",0,1,0,0
+"Hebei SCC","SCC",0,1,0,0
+"Heilongjiang SCC","SCC",0,1,0,0
+"Henan SCC","SCC",0,1,0,0
+"Hongyang Liaoning SCC","SCC",0,1,0,0
+"Jiangsu SCC","SCC",0,1,0,0
+"Khuren Shand SCC","SCC",0,1,0,0
+"Liaoning SCC","SCC",0,1,0,0
+"MAK-Qinghua Nariin Sukhait SCC","SCC",0,1,0,0
+"MAK Nariin Sukhait SCC","SCC",0,1,0,0
+"Ovoot Tolgoi Prm SCC","SCC",0,1,0,0
+"Ovoot Tolgoi Std SCC","SCC",0,1,0,0
+"Perennial Energy SCC clean","SCC",0,1,0,0
+"Shaanxi SCC","SCC",0,1,0,0
+"Shandong SCC","SCC",0,1,0,0
+"Shinejinst Met","SCC",0,1,0,0
+"Sichuan SCC","SCC",0,1,0,0
+"Soumber SHCC","SCC",0,1,0,0
+"West Tsankhi SCC","SCC",0,1,0,0
+"Wintime SCC","SCC",0,1,0,0
+"Wuhai SCC","SCC",0,1,0,0
+"Xinjiang SCC","SCC",0,1,0,0
+"Zeegt Met","SCC",0,1,0,0
+"Aduun Chuluun Thermal","Thermal_2250",0,0,0,9.41
+"Shivee Ovoo","Thermal_2750",0,0,0,11.51
+"Baganuur","Thermal_3000",0,0,0,12.55
+"FOB Lignite","Thermal_3500",0,0,0,14.64
+"Hongyang Inner Mongolia Lignite","Thermal_3500",0,0,0,14.64
+"Lignite","Thermal_3500",0,0,0,14.64
+"Middle Gobi Thermal","Thermal_3500",0,0,0,14.64
+"Eldev Thermal","Thermal_3750",0,0,0,15.69
+"Sharyn Gol Thermal","Thermal_3750",0,0,0,15.69
+"Jilin 4000","Thermal_4000",0,0,0,16.74
+"Sharyn Gol Wash","Thermal_4000",0,0,0,16.74
+"Guangxi Lignite","Thermal_4000",0,0,0,16.74
+"Yunnan Lignite","Thermal_4000",0,0,0,16.74
+"Liaoning 4000","Thermal_4000",0,0,0,16.74
+"Qinghua - Nariin Sukhait Thermal","Thermal_4000",0,0,0,16.74
+"Chongqing Anthracite","Thermal_4500",0,0,0,18.83
+"Hebei Bituminous","Thermal_4500",0,0,0,18.83
+"Perennial Energy Bituminous","Thermal_4500",0,0,0,18.83
+"Henan 4500","Thermal_4500",0,0,0,18.83
+"Shenhuo Sub-bit","Thermal_4500",0,0,0,18.83
+"Zhengzhou Coal Sub-bit","Thermal_4500",0,0,0,18.83
+"Ulaan Ovoo","Thermal_4750",0,0,0,19.87
+"Blackgold Anthracite","Thermal_5000",0,0,0,20.92
+"Feishang Processed Anthracite","Thermal_5000",0,0,0,20.92
+"Feishang Raw Anthracite","Thermal_5000",0,0,0,20.92
+"FOT Huangshi 5000","Thermal_5000",0,0,0,20.92
+"Guangxi Anthracite","Thermal_5000",0,0,0,20.92
+"Guizhou Anth 5000","Thermal_5000",0,0,0,20.92
+"Hunan Anthracite","Thermal_5000",0,0,0,20.92
+"FOB 5000","Thermal_5000",0,0,0,20.92
+"FOT 5000","Thermal_5000",0,0,0,20.92
+"FOT Huating 5000","Thermal_5000",0,0,0,20.92
+"Guanghui Bituminous External","Thermal_5000",0,0,0,20.92
+"Guanghui Bituminous Internal","Thermal_5000",0,0,0,20.92
+"Guangxi Bituminous","Thermal_5000",0,0,0,20.92
+"Guizhou 5000","Thermal_5000",0,0,0,20.92
+"Heilongjiang 5000","Thermal_5000",0,0,0,20.92
+"Hidili Bituminous raw","Thermal_5000",0,0,0,20.92
+"Jingyuan Bituminous","Thermal_5000",0,0,0,20.92
+"Lanhua Bituminous","Thermal_5000",0,0,0,20.92
+"Ningxia 5100","Thermal_5000",0,0,0,20.92
+"Ordos 5000","Thermal_5000",0,0,0,20.92
+"Panjiang Bituminous","Thermal_5000",0,0,0,20.92
+"Qinghai 5000","Thermal_5000",0,0,0,20.92
+"Sichuan 5000","Thermal_5000",0,0,0,20.92
+"Xinjiang 5000","Thermal_5000",0,0,0,20.92
+"Yunnan 5000","Thermal_5000",0,0,0,20.92
+"Shaanxi 5000","Thermal_5000",0,0,0,20.92
+"Shaanxi FOB 5000","Thermal_5000",0,0,0,20.92
+"Baruun Naran low grade","Thermal_5250",0,0,0,21.97
+"BNU Therm","Thermal_5250",0,0,0,21.97
+"Chongqing 5200","Thermal_5250",0,0,0,21.97
+"Ovoot Tolgoi","Thermal_5250",0,0,0,21.97
+"Tavan Tolgoi Thermal","Thermal_5250",0,0,0,21.97
+"Anyuan Anthracite","Thermal_5500",0,0,0,23.01
+"FOT Xinyu Anthracite","Thermal_5500",0,0,0,23.01
+"Fujian Anthracite","Thermal_5500",0,0,0,23.01
+"Sichuan Anthracite","Thermal_5500",0,0,0,23.01
+"Anhui 5500","Thermal_5500",0,0,0,23.01
+"Bituminous","Thermal_5500",0,0,0,23.01
+"Blackgold Bituminous","Thermal_5500",0,0,0,23.01
+"East Tsankhi Thermal","Thermal_5500",0,0,0,23.01
+"ENN-EC Bituminous","Thermal_5500",0,0,0,23.01
+"FOB 5500","Thermal_5500",0,0,0,23.01
+"Huaibei Mining Bituminous","Thermal_5500",0,0,0,23.01
+"Hunan 5500","Thermal_5500",0,0,0,23.01
+"International 5500","Thermal_5500",0,0,0,23.01
+"Jiangsu Bituminous","Thermal_5500",0,0,0,23.01
+"Kinetic Bituminous FOB","Thermal_5500",0,0,0,23.01
+"MengDian Bituminous External","Thermal_5500",0,0,0,23.01
+"MengDian Bituminous Internal","Thermal_5500",0,0,0,23.01
+"Ordos 5500","Thermal_5500",0,0,0,23.01
+"Shandong Bituminous","Thermal_5500",0,0,0,23.01
+"UHG Therm ROM","Thermal_5500",0,0,0,23.01
+"Ukhaa Khudag Thermal","Thermal_5500",0,0,0,23.01
+"Wuhai 5500","Thermal_5500",0,0,0,23.01
+"Henan Anthracite","Thermal_5750",0,0,0,24.06
+"Shenhuo Anthracite","Thermal_5750",0,0,0,24.06
+"Southern Energy Anthracite","Thermal_5750",0,0,0,24.06
+"Zhengzhou Coal Anthracite","Thermal_5750",0,0,0,24.06
+"FOB Beijing Anthracite","Thermal_6000",0,0,0,25.1
+"FOT Beijing Anthracite","Thermal_6000",0,0,0,25.1
+"Ningxia Anthracite","Thermal_6000",0,0,0,25.1
+"Yunnan Anthracite","Thermal_6000",0,0,0,25.1
+"Baruun Naran high grade","Thermal_6000",0,0,0,25.1
+"International 6000","Thermal_6000",0,0,0,25.1
+"Khushuut Therm","Thermal_6000",0,0,0,25.1
+"Shaanxi 6000","Thermal_6000",0,0,0,25.1
+"Shaanxi 6000 FOB","Thermal_6000",0,0,0,25.1
+"Khuren Shand Therm","Thermal_6250",0,0,0,26.15
+"MAK Nariin Sukhait","Thermal_6250",0,0,0,26.15
+"FOB 6500","Thermal_6500",0,0,0,27.2
+"FOT 6500","Thermal_6500",0,0,0,27.2
+"Hebei Anthracite","Thermal_6500",0,0,0,27.2
+"International 6500","Thermal_6500",0,0,0,27.2
+"Lanhua Anthracite","Thermal_6500",0,0,0,27.2
+"Mandakh Nuur Anth","Thermal_6500",0,0,0,27.2
+"Tiandi Anthracite","Thermal_6500",0,0,0,27.2
